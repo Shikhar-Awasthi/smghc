@@ -1,0 +1,9 @@
+.active{
+    color:#1976d2;
+    box-shadow: rgb(0 0 0 / 3%) 0px 100px 80px, rgb(0 0 0 / 2%) 0px 41.7776px 33.4221px, rgb(0 0 0 / 2%) 0px 22.3363px 17.869px, rgb(0 0 0 / 2%) 0px 12.5216px 10.0172px, rgb(0 0 0 / 1%) 0px 6.6501px 5.32008px, rgb(0 0 0 / 1%) 0px 2.76726px 2.21381px;
+    background:#fff;
+    transition: 1s;
+}
+.active span{
+    color:"#63b1ff"
+}
